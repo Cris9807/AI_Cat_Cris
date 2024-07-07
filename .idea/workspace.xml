@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="71ead818-e2b3-4c63-83f6-20af16f172ba" name="Changes" comment="Project Setup">
-      <change afterPath="$PROJECT_DIR$/app.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AI_Cat_Cris.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Cat_Cris.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/app.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\crist\Documents\GitHub\AI_Cat_Cris" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\Documents\GitHub\AI_Cat_Cris" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -66,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719582629019</updated>
       <workItem from="1719582630385" duration="329000" />
-      <workItem from="1720374375271" duration="388000" />
+      <workItem from="1720374375271" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="Project Setup">
       <option name="closed" value="true" />
