@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71ead818-e2b3-4c63-83f6-20af16f172ba" name="Changes" comment="Project Setup">
-      <change afterPath="$PROJECT_DIR$/interstellar.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/app.ipynb" afterDir="false" />
     </list>
@@ -65,8 +64,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
-        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -83,6 +82,9 @@
       <workItem from="1720446836701" duration="2439000" />
       <workItem from="1720617485385" duration="2593000" />
       <workItem from="1720621623257" duration="2113000" />
+      <workItem from="1720637401822" duration="11834000" />
+      <workItem from="1720725397408" duration="2547000" />
+      <workItem from="1720728172173" duration="1048000" />
     </task>
     <task id="LOCAL-00001" summary="Project Setup">
       <option name="closed" value="true" />
