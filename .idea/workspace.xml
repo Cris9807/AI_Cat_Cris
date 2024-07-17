@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71ead818-e2b3-4c63-83f6-20af16f172ba" name="Changes" comment="Project Setup">
-      <change afterPath="$PROJECT_DIR$/star2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star3.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/app.ipynb" afterDir="false" />
     </list>
@@ -87,7 +85,7 @@
       <workItem from="1720637401822" duration="11834000" />
       <workItem from="1720725397408" duration="2547000" />
       <workItem from="1720728172173" duration="6959000" />
-      <workItem from="1720978795818" duration="4151000" />
+      <workItem from="1720978795818" duration="11484000" />
     </task>
     <task id="LOCAL-00001" summary="Project Setup">
       <option name="closed" value="true" />
